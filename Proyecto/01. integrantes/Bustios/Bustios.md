@@ -1,8 +1,24 @@
-# Jeff Bezos
+# Abraham Bustios
 
-![Jeff Bezos](bezos.jpg)
+![Abraham Bustios Terres](bezos.jpg)
 
-Jeff Bezos es el fundador de Amazon, donde se desempeñó como presidente, CEO, y presidente de la junta directiva hasta 2021. También es fundador de Blue Origin, una compañía que tiene como objetivo hacer más accesible el espacio para ayudar a la humanidad a expandirse y preservar la Tierra.
+¿Cuál es mi experiencia en desarrollo de software?
+Experienca en desarrollo de proyectos de curso en Java, C# y javascript. 
+
+¿Qué tecnologías conozco o domino?
+
+Conocimientos de ingenieria de Software y metologias ágiles.
+NextJS 
+
+¿Cuál es mi expectativa del curso?
+
+Ampliar mis conocimientos en el área del desarrollo de software para adentrarme en el mundo laboral profesional.
+
+
+¿Cómo me veo en 10 años? 
+
+Como un desarrollador independiente y dueño de mi propio estudio de desarrollo de videojuegos.
+
 
 [Ver integrantes](../integrantes.md)
 
