@@ -1,7 +1,9 @@
 # Integrantes del grupo
 
-- [Elon Musk](musk/musk.md)
-- [Jeff Bezos](bezos/bezos.md)
-- [Bill Gates](gates/gates.md)
-
+- [Andre Lopez Taranco](lopez/lopez.md)
+- [Mario Cartolin](cartolin/cartolin.md)
+- [George Zuñiga](zuñiga/zuñiga.md)
+- [Alejandro Gómez López](gómez/gómez.md)
+- [Abraham Bustíos Terres](bustíos/bustíos.md)
+- [Aaron Livias Vigil](livias/livias.md)
 [Regresar al índice](../proyecto.md)
