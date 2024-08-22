@@ -1,6 +1,6 @@
-# Proyecto del Curso - Grupo 10
+# Proyecto del Curso - Grupo 7
 
-Bienvenidos al repositorio del Proyecto del Curso del Grupo 10. Aquí encontrarán toda la documentación y archivos relevantes para nuestro proyecto.
+Bienvenidos al repositorio del Proyecto del Curso del Grupo 7. Aquí encontrarán toda la documentación y archivos relevantes para nuestro proyecto.
 
 ## Índice
 
