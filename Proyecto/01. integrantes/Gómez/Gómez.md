@@ -3,6 +3,7 @@
 ![Alejandro Gomez Lopez](bezos.jpg)
 
 ¿Cuál es mi experiencia en desarrollo de software?
+
 Tengo conocimientos en Python, Java, JS, C, C++, y actualmente me encuentro practicando con videojuegos en Unity, haciendo uso del lenguaje C#
 
 ¿Qué tecnologías conozco o domino?
