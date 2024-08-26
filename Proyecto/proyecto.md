@@ -15,5 +15,7 @@ Un aplicativo web dirigido a la contratación de servicios.
 - Registro de usuarios
 - Búsqueda y filtrado de servicios
 - Registro de proveedor de servicio
-- chat de usuario con el proveedor del servicio
+- Chat de usuario con el proveedor del servicio
+- Presentación del servicio
+- Sistema de pago
 
