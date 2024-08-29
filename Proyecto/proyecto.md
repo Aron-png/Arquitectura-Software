@@ -16,4 +16,4 @@ Un aplicativo web dirigido a la contratación de servicios.
 - Búsqueda y filtrado de servicios
 - Registro de proveedor de servicio
 - chat de usuario con el proveedor del servicio
-
+- Pasarela de Pago
