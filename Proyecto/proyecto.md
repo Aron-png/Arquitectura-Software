@@ -25,4 +25,11 @@ Un aplicativo web dirigido a la contratación de servicios.
 - Estado en vivo de la contratación (en búsqueda, en camino, finalizado, cancelado)
 - Perfil del usuario contratante y del usuario contradado
 - Sistema de calificación del contradado en base al servicio brindado
->>>>>>> 556ec9e6ce65979c6aea69eab5b3a5dad17d08d4
+
+## Stakeholders
+   1- Abraham Bustios: Project Manager / Analista
+   2- Mario Cartolin
+   3- Alejandro Gomez: Developer / Gestor de negocio
+   4- Aaron Livias: Arquitecto / Developer
+   5- Andre Lopez
+   6- George Zuñiga: Responsable de mantenimiento / Responsable de pruebas
